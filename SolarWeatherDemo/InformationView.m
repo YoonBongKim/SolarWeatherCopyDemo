@@ -6,6 +6,7 @@
 //  Copyright (c) 2012년 YoonBong Kim. All rights reserved.
 //
 
+#import <QuartzCore/QuartzCore.h>
 #import "InformationView.h"
 
 @implementation InformationView
